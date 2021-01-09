@@ -1,2 +1,2 @@
 # burger
-front-end desing using HTML,CSS AND JS
+Front-end desing using HTML,CSS and boostrap 
